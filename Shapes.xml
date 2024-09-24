@@ -1,0 +1,23 @@
+<root>
+    <decision>
+        <option>Circle</option>
+    </decision>
+</root>
+
+------------------------------------------------------
+
+<root>
+    <decision>
+        <option>Square</option>
+    </decision>
+</root>
+
+------------------------------------------------------
+
+<root>
+    <decision>
+        <option>Triangle</option>
+    </decision>
+</root>
+
+-----------------------------------------------------
